@@ -18,7 +18,7 @@ This repository is the public working notebook for the first technical package: 
 | Traction bus | 300-430 V operating window |
 | Battery output | >=60 kW continuous, >=120 kW peak |
 | Battery integration | Integrated BMS, contactors, fuse, precharge, HVIL, isolation monitoring, CAN, and liquid cooling preferred |
-| Motor reference | Bosch SMG180 OHW is a reference target, not a locked motor |
+| Motor reference | Bosch SMG180 OHW is a reference target, not a locked motor; practical consumer sourcing is Fiat 500e salvage, not Bosch direct |
 
 Battery voltage, inverter limits, charger behavior, and motor selection must be validated as one system. A promising pack is not considered verified until the project has the datasheet, supplier quote, CAD/package file, and integration documentation.
 

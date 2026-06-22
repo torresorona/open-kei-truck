@@ -36,8 +36,8 @@ These are not final locks; they are the best starting assumptions for the next d
 
 | Area | Reference direction | Why |
 |---|---|---|
-| Motor | Bosch SMG180 OHW reference target | Already matches current 400V-class, 60 kW continuous project assumption. |
-| Motor alternate | Cascadia Motion iM-225 or Hypercraft turnkey package | More complete sourcing/control paths if Bosch availability blocks progress. |
+| Motor | Bosch SMG180 OHW reference target, Fiat 500e salvage as practical source | Already matches current 400V-class, 60 kW continuous project assumption, but Bosch direct should be treated as Tier 1 / B2B only. |
+| Motor alternate | Nissan Leaf EM57 drive unit first; Bolt, HyPer 9 HV, HPEVS, Cascadia, and Hypercraft as tracked alternates | Leaf looks like the best affordability/control-support path; the others cover performance, lower-voltage mule, and premium benchmark branches. |
 | Battery/HV | Keep current 35-55 kWh, 300-430V pack target | Existing ADRs already set this architecture. |
 | Bed | Custom bolt-on drop-side metal bed | Better open-source repeatability than chasing used imported bed panels. |
 | Bed hardware | Kei-style latches/hinges first, truck-body hardware fallback | Preserves kei utility behavior while keeping domestic alternatives available. |
@@ -51,10 +51,14 @@ These are not final locks; they are the best starting assumptions for the next d
 
 | Supplier/resource | Best use |
 |---|---|
-| Bosch Mobility | SMG180 OHW motor reference, motor/gearbox ecosystem. |
-| Greenboatsolutions | Possible SMG180 quote path. |
+| Bosch Mobility | SMG180 OHW reference specifications and off-highway/Tier 1 product context, not a consumer purchase path. |
+| eBay / salvage yards / EV dismantlers | Only currently tracked individual-builder source for salvaged Fiat 500e Bosch SMG-family motor, inverter, harness, and reduction hardware. |
+| Thunderstruck Motors Nissan Leaf Drive System | Used Leaf drive unit source with VCU support for ZE0/AZE0/ZE1 variants. |
+| Resolve-EV | Leaf controller and wiring-harness path for plug-and-play-style conversions. |
 | Cascadia Motion | Integrated motor/inverter alternate with CAD/manual resources. |
 | Hypercraft | Turnkey EV powertrain/battery/control packages. |
+| NetGain Motors | HyPer 9 HV lower-voltage DIY kit and WarP brushed-DC comparison motors. |
+| HPEVS | AC-50/AC-51 low-voltage AC motor kits for lightweight prototypes. |
 | Thunderstruck Motors | EV conversion chargers, DCDC, contactors, fuses, connectors, cooling, displays. |
 | Orion BMS | Custom-pack BMS alternate if an integrated-pack BMS is not used. |
 | EV West | EV motors, instrumentation, shunts, adapters, conversion support parts. |
@@ -77,12 +81,13 @@ These are not final locks; they are the best starting assumptions for the next d
 
 1. Which kei donor model is the reference geometry source: Acty, Carry, Hijet, or a blended cab/bed target?
 2. Is the first rolling prototype intended as off-road/private-property, LSV, kit, or full road vehicle?
-3. Can Bosch SMG180 be bought with a matched inverter, gearbox recommendation, CAD, and control documentation?
-4. What rear axle/final-drive layout gives the simplest serviceable drivetrain?
-5. Which windshield is worth designing around before custom glass is considered?
-6. What payload target should drive bed structure, rear springs, brakes, and tires?
-7. Which lighting path is preferred: universal DOT lamps first or kei-style lamps first?
-8. Which parts need CAD now: motor, battery, PDU, steering rack, seats, windshield, bed hinges/latches?
+3. Which Fiat 500e Bosch SMG-family salvage package includes the motor, inverter, harness, reduction hardware, coolant fittings, HV connectors, and a proven controller path?
+4. Should the practical prototype path pivot toward a Nissan Leaf drive unit because it includes motor, inverter, reduction drive, differential, and aftermarket VCU support?
+5. What rear axle/final-drive layout gives the simplest serviceable drivetrain?
+6. Which windshield is worth designing around before custom glass is considered?
+7. What payload target should drive bed structure, rear springs, brakes, and tires?
+8. Which lighting path is preferred: universal DOT lamps first or kei-style lamps first?
+9. Which parts need CAD now: motor, battery, PDU, steering rack, seats, windshield, bed hinges/latches?
 
 ## Immediate Next Step
 
@@ -93,4 +98,4 @@ Use [data/component-candidates.csv](../data/component-candidates.csv) as the mas
 - Dimensions, CAD, drawing, or fitment diagram.
 - Integration or installation documentation.
 
-The first supplier outreach pass should target Bosch/Greenboatsolutions, Cascadia, Hypercraft, Thunderstruck, Mini4x4.ca, Honda-Acty.com, Yokohama Motors, Auto Glass Japan, Buyers Products, and one local/online metal fabrication path.
+The first supplier outreach pass should target Fiat 500e salvage sellers, EV dismantlers, Cascadia, Hypercraft, Thunderstruck, Mini4x4.ca, Honda-Acty.com, Yokohama Motors, Auto Glass Japan, Buyers Products, and one local/online metal fabrication path. Bosch should remain a reference-spec source unless a real B2B/integrator purchase path appears.

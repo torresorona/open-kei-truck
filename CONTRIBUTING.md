@@ -10,7 +10,7 @@ This project is still in research and architecture definition. Contributions are
 - Do not move a candidate to `verified` until datasheet, quote, CAD/package file, and integration documentation are all received.
 - Treat supplier pages, marketplace listings, screenshots, and emails as unverified until evidence is attached or linked.
 - Keep the vehicle architecture based on a battery envelope and interface spec, not a single locked battery.
-- Keep the Bosch SMG180 OHW as a reference motor target until motor, inverter, voltage, cooling, and control documentation are validated together.
+- Keep the Bosch SMG180 OHW as a reference motor target only; Bosch direct sourcing should be treated as Tier 1 / B2B, while individual-builder sourcing should focus on complete Fiat 500e salvage packages until proven otherwise.
 
 ## Before Opening a Pull Request
 

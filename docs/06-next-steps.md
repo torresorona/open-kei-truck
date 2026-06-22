@@ -2,7 +2,7 @@
 
 ## Immediate
 
-1. Open issues for AMPHERR, ABS, Hypercraft, CTS, Bosch, Cascadia, Thunderstruck, Mini4x4.ca, Honda-Acty.com, Yokohama Motors, Auto Glass Japan, Buyers Products, and a fabrication supplier.
+1. Open issues for AMPHERR, ABS, Hypercraft, CTS, Fiat 500e salvage sellers, Nissan Leaf salvage sellers, EV dismantlers, Thunderstruck, Resolve-EV, Cascadia, Mini4x4.ca, Honda-Acty.com, Yokohama Motors, Auto Glass Japan, Buyers Products, and a fabrication supplier.
 2. Request quotes and CAD for the high-priority battery, motor, PDU, glass, lighting, steering, bed hardware, and fabrication rows.
 3. Request CAN/DBC or integration manuals for battery, inverter, charger, DCDC, BMS, VCU, and dash candidates.
 4. Pick one reference kei donor catalog for geometry research: Acty, Carry, or Hijet.

@@ -7,8 +7,14 @@ ABS,high,"T350V-50 peak discharge current/power, voltage range, weight, CAD, CAN
 Hypercraft,medium,Quote and availability for EX-24S24P-E 4-pack 400V Energy stack; CAD and CAN/DBC docs?,open
 CTS,high,"MOQ 1 quote for 120S 135Ah, 108S 150Ah, and 96S 180Ah LFP packs with exact dimensions/weight?",open
 CTS,high,"Confirm BMS, PDU, contactors, precharge, fuse, isolation monitoring, HVIL, MSD, cooling, CAN docs, certifications, warranty.",open
-Bosch,medium,"Confirm SMG180 OHW/inverter/gearbox availability, purchase path, voltage limits, CAN/control docs.",open
-Bosch,high,"Can SMG180 OHW be purchased for a prototype with matched inverter, gearbox recommendation, CAD, pinout, resolver cable, cooling specs, and control documentation?",open
+Bosch,medium,"Confirm current SMG180 OHW specs, voltage limits, cooling requirements, and whether Bosch direct sales are limited to Tier 1/B2B manufacturers or integrators.",open
+Fiat 500e salvage sellers,high,"Find complete Bosch SMG-family Fiat 500e motor/inverter/harness/reduction packages with exact part numbers, condition, mileage, HV connectors, coolant fittings, and return policy.",open
+Nissan Leaf salvage sellers,high,"Find complete ZE0/AZE0/ZE1 Leaf motor/inverter/reduction/differential assemblies with matching inverter, harness pigtails, mileage, exact donor year, shipping weight, and return policy.",open
+Thunderstruck,high,"Confirm Nissan Leaf drive system package availability for AZE0/ZE1 units, delivered price, VCU/manual docs, included components, weight, reverse RPM behavior, and battery-voltage compatibility.",open
+Resolve-EV,high,"Confirm controller and harness support for Nissan Leaf donor generations, included functions, documentation, price, lead time, and compatibility with a non-Leaf 300-430V pack.",open
+Chevrolet Bolt EV salvage sellers,medium,"Find complete Bolt EV motor/inverter/reduction assemblies with exact part numbers, condition, mileage, HV connectors, cooling fittings, and any known open controller path.",open
+NetGain Motors,medium,"Confirm HyPer 9 HV continuous/peak ratings, voltage limits, CAD, price, lead time, and whether the kit can support a loaded kei-truck use case.",open
+HPEVS,medium,"Confirm AC-50/AC-51 continuous ratings, controller voltage options, price, lead time, CAD, and suitability for a low-speed mule versus full reference truck.",open
 Cascadia Motion,medium,"Quote iM-225 with voltage configuration, delivered price, lead time, CAD/manual package, coolant requirements, gearbox/final-drive recommendations, and CAN/control documentation.",open
 Hypercraft,medium,"Can Hypercraft quote a de-rated 400V commercial powertrain package without forcing a HyperPack battery lock-in? Include VCU, inverter, cooling, harness, CAD, and integration docs.",open
 Thunderstruck,high,"Recommend charger, DCDC, contactors, fuses, disconnects, connectors, cooling pump, and display pieces for a 300-430V 35-55kWh EV utility truck prototype.",open
