@@ -42,6 +42,14 @@ Battery voltage, inverter limits, charger behavior, and motor selection must be 
 | `scripts/` | CSV validation and generated Markdown tooling |
 | `.github/ISSUE_TEMPLATE/` | Markdown issue templates for contributors |
 
+## Key Google Docs
+
+GitHub is the source of truth for tracked requirements, decisions, and data. Google Docs can hold drafts, long-form notes, and working discussion.
+
+| Document | Purpose |
+|---|---|
+| [Open Kei Truck working doc](https://docs.google.com/document/d/1TnJtOqWYKVURaYV2c_4Uqg8voKTuFQYaCqHaaYgHtW8/edit?usp=sharing) | Shared project notes and planning draft |
+
 ## Battery Data Workflow
 
 Keep `data/battery-candidates.csv` as the source of truth. Unknown values should be written as `UKN`, not left blank. Status values are defined in [data/status-vocabulary.md](data/status-vocabulary.md).
