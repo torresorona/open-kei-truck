@@ -1,0 +1,23 @@
+name: Validate repository data
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate battery candidate CSV
+        run: python3 scripts/validate_battery_candidates.py
+
+      - name: Check generated battery shortlist
+        run: python3 scripts/generate_battery_shortlist.py --check
