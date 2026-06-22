@@ -13,6 +13,7 @@ The first meaningful contribution should be a well-structured, evidence-backed s
 - HV safety architecture.
 - Supplier verification workflow.
 - Motor/inverter compatibility notes.
+- Whole-vehicle component sourcing matrix.
 - CAD packaging assumptions.
 - Decision log.
 

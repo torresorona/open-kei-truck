@@ -8,3 +8,14 @@ Hypercraft,medium,Quote and availability for EX-24S24P-E 4-pack 400V Energy stac
 CTS,high,"MOQ 1 quote for 120S 135Ah, 108S 150Ah, and 96S 180Ah LFP packs with exact dimensions/weight?",open
 CTS,high,"Confirm BMS, PDU, contactors, precharge, fuse, isolation monitoring, HVIL, MSD, cooling, CAN docs, certifications, warranty.",open
 Bosch,medium,"Confirm SMG180 OHW/inverter/gearbox availability, purchase path, voltage limits, CAN/control docs.",open
+Bosch,high,"Can SMG180 OHW be purchased for a prototype with matched inverter, gearbox recommendation, CAD, pinout, resolver cable, cooling specs, and control documentation?",open
+Cascadia Motion,medium,"Quote iM-225 with voltage configuration, delivered price, lead time, CAD/manual package, coolant requirements, gearbox/final-drive recommendations, and CAN/control documentation.",open
+Hypercraft,medium,"Can Hypercraft quote a de-rated 400V commercial powertrain package without forcing a HyperPack battery lock-in? Include VCU, inverter, cooling, harness, CAD, and integration docs.",open
+Thunderstruck,high,"Recommend charger, DCDC, contactors, fuses, disconnects, connectors, cooling pump, and display pieces for a 300-430V 35-55kWh EV utility truck prototype.",open
+Mini4x4.ca,high,"Can you quote Suzuki Carry tail/turn lamps, front blinkers, side/tailgate handles, bed hinges, steering rack/tie rods, and any fitment drawings or part numbers?",open
+Honda-Acty.com,high,"Can you provide HA4/HA7 body, glass, lights, radio, seat, seat belt, steering, brake, suspension, and rear floor/gate part availability with diagrams and prices?",open
+Yokohama Motors,high,"Which Acty/Carry/Hijet generation has the broadest new OEM/aftermarket body, bed, glass, lighting, steering, brake, and suspension support for a reference donor?",open
+Auto Glass Japan,medium,"Quote Acty, Carry, and Hijet windshields/rear/door glass with DOT markings, shipping to the United States, gasket/urethane requirements, and dimensional drawings if available.",open
+Buyers Products,medium,"Recommend DOT lamps, hinges, tailgate latches, stake hardware, chains/cables, tie-downs, and product drawings/load ratings for a small drop-side utility bed.",open
+SendCutSend,medium,"Confirm best practices, tolerances, material options, and quote path for tab-and-slot bed/chassis brackets from DXF/STEP files.",open
+Online Metals,medium,"Confirm repeatable availability and pricing for standard steel/aluminum sheet and rectangular tube sizes suitable for a small utility EV frame and bed.",open

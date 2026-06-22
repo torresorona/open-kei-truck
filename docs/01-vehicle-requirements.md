@@ -9,6 +9,7 @@
 | Battery output | >=60 kW continuous, >=120 kW peak |
 | Packaging | Underfloor or under-bed pack preferred |
 | Fabrication | Standard tube, sheet, tab-and-slot, bolt-on modules |
+| Component sourcing | Traceable kei donor, EV supplier, or industrial supplier path for every major assembly |
 | Serviceability | Service disconnect, labeled HV components, accessible PDU/BMS |
 | Open-source priority | Repeatable sourcing and documentation over one-off optimization |
 

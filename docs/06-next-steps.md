@@ -2,13 +2,13 @@
 
 ## Immediate
 
-1. Create a public GitHub repository.
-2. Commit this scaffold.
-3. Open issues for AMPHERR, ABS, Hypercraft, CTS, and Bosch.
-4. Request quotes and CAD.
-5. Request CAN/DBC or integration manuals.
+1. Open issues for AMPHERR, ABS, Hypercraft, CTS, Bosch, Cascadia, Thunderstruck, Mini4x4.ca, Honda-Acty.com, Yokohama Motors, Auto Glass Japan, Buyers Products, and a fabrication supplier.
+2. Request quotes and CAD for the high-priority battery, motor, PDU, glass, lighting, steering, bed hardware, and fabrication rows.
+3. Request CAN/DBC or integration manuals for battery, inverter, charger, DCDC, BMS, VCU, and dash candidates.
+4. Pick one reference kei donor catalog for geometry research: Acty, Carry, or Hijet.
+5. Decide whether the first road-adjacent target is off-road/private-property, LSV, kit, or full road vehicle.
 6. Add weight data as soon as each supplier responds.
-7. Do not freeze the chassis until battery envelope and motor/inverter voltage are validated.
+7. Do not freeze the chassis until battery envelope, motor/inverter voltage, final-drive strategy, glass, steering, and bed architecture are validated.
 
 ## First technical milestone
 
@@ -25,3 +25,15 @@ Create a simple script that:
 - Flags missing fields.
 - Calculates approximate continuous and peak kW from voltage/current when possible.
 - Generates a markdown shortlist table.
+
+## Whole-vehicle sourcing milestone
+
+Create evidence-backed shortlist rows for:
+- Traction motor/inverter/gearbox.
+- HV PDU, charger, DCDC, contactors, fuses, connectors, and HVIL/IMD strategy.
+- Donor or custom steering rack/column/wheel.
+- Brake and suspension donor families.
+- Windshield, door glass, rear glass, seals, wipers, and mirrors.
+- Headlamps, blinkers, tail/stop/turn lamps, reverse lamps, reflectors, and horn.
+- Seats, seat belts, dash, radio, and 12V harness.
+- Metal bed floor, drop sides, tailgate, hinges, latches, chains/cables, stake pockets, and tie-downs.

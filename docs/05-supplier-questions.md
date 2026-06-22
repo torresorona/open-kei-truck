@@ -26,6 +26,19 @@
 22. What certifications are available and can proof be provided?
 23. What warranty applies to prototype/open-source/DIY installations?
 
+## Whole-vehicle component questions
+
+1. Is this part appropriate for on-road, off-road, prototype, or industrial use?
+2. Can a single unit be purchased and shipped to the United States?
+3. What drawings, CAD, or dimensional fitment files are available?
+4. What installation manual, wiring diagram, or integration note is available?
+5. What ratings apply: voltage, current, load, temperature, corrosion, vibration, ingress, or lamp/glass compliance?
+6. Are replacement wear parts available separately?
+7. Are left/right or matched sets required?
+8. What connector, fastener, seal, or tooling family is required?
+9. Can the supplier confirm whether the part is OEM, aftermarket direct-fit, universal, or off-road only?
+10. What evidence can be linked in `data/component-candidates.csv` before moving the row toward `verified`?
+
 ## Supplier-specific asks
 
 See `data/supplier-followups.csv` for tracked questions.

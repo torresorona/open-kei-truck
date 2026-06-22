@@ -5,6 +5,7 @@ This project is still in research and architecture definition. Contributions are
 ## Working Rules
 
 - Keep `data/battery-candidates.csv` as the source of truth for battery comparisons.
+- Keep `data/component-candidates.csv` as the source of truth for whole-vehicle component sourcing.
 - Use `UKN` for unknown CSV values instead of leaving cells blank.
 - Do not move a candidate to `verified` until datasheet, quote, CAD/package file, and integration documentation are all received.
 - Treat supplier pages, marketplace listings, screenshots, and emails as unverified until evidence is attached or linked.
@@ -17,6 +18,7 @@ Run:
 
 ```sh
 python3 scripts/validate_battery_candidates.py
+python3 scripts/validate_component_candidates.py
 python3 scripts/generate_battery_shortlist.py --check
 ```
 
