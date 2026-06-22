@@ -1,0 +1,2 @@
+candidate,supplier,status,nominal_power_kw,peak_power_kw,nominal_torque_nm,peak_torque_nm,max_speed_rpm,voltage,cooling,weight,key_questions
+Bosch SMG180 OHW,Bosch,"reference target, not locked",60,90,95,200,12000-12800 depending source/version,up to 425-430 VDC depending source/version,"Water-glycol, approx 6-8 L/min",30 kg,"Availability, inverter pairing, CAN/control docs, gearbox/differential interface, low-voltage power behavior"

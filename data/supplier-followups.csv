@@ -1,0 +1,10 @@
+supplier,priority,question,status
+AMPHERR,high,"Can a single LFP-400-052 1F30 be purchased? MOQ, price, lead time?",open
+AMPHERR,high,Exact 1F30 weight and STEP CAD?,open
+AMPHERR,high,Can charger/BMS top voltage be limited to <=430 V?,open
+ABS,high,"Is T350V-50 LFP, NMC, or another lithium-ion chemistry?",open
+ABS,high,"T350V-50 peak discharge current/power, voltage range, weight, CAD, CAN docs?",open
+Hypercraft,medium,Quote and availability for EX-24S24P-E 4-pack 400V Energy stack; CAD and CAN/DBC docs?,open
+CTS,high,"MOQ 1 quote for 120S 135Ah, 108S 150Ah, and 96S 180Ah LFP packs with exact dimensions/weight?",open
+CTS,high,"Confirm BMS, PDU, contactors, precharge, fuse, isolation monitoring, HVIL, MSD, cooling, CAN docs, certifications, warranty.",open
+Bosch,medium,"Confirm SMG180 OHW/inverter/gearbox availability, purchase path, voltage limits, CAN/control docs.",open
