@@ -2,7 +2,7 @@
 
 Open Kei Truck is an early-stage open-source project to define a compact, American kei-truck-style electric utility vehicle around accessible parts, repeatable fabrication, and evidence-backed subsystem choices.
 
-![Compact electric truck battery cutaway](images/compact_electric_truck_with_battery_cutaway.png)
+![Open Kei Truck concept](images/open_kei_truck_concept_1.png)
 
 ## What This Repo Is
 
